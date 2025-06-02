@@ -168,7 +168,7 @@ interests = {
 
 ## 📈 Activity Graph
 
-[![Nagashree's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nagashreekashyap&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Nagashree's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dsnagashree&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -198,7 +198,7 @@ I'm always excited to connect with fellow developers, researchers, and innovator
 
 📧 **Email**: naagukashyap@gmail.com  
 🔗 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/nagashree-ds-32954625b/)  
-🌐 **Portfolio**: [View my work](https://nagashreekashyap.github.io/portfolio/)  
+🌐 **Portfolio**: [View my work](https://dsnagashree.github.io/portfolio/)  
 📍 **Location**: Bengaluru, Karnataka, India  
 
 </div>
