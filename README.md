@@ -125,9 +125,9 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dsnagashree&theme=tokyonight&hide_border=true&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF)](https://github.com/dsnagashree)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dsnagashree&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF)](https://git.io/streak-stats)
 #[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dsnagashree&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dsnagashree&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 
 </div>
 
