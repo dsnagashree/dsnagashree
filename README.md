@@ -144,15 +144,31 @@ Here are some ideas to get you started:
 
 ## 🎯 Areas of Interest
 
+### 🤖 Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing (NLP)
 
-interests = {
-    "artificial_intelligence": ["Machine Learning", "Deep Learning", "Computer Vision", "NLP"],
-    "cybersecurity": ["Threat Detection", "Phishing Analysis", "Security Automation"],
-    "development": ["Full-Stack", "API Development", "System Design"],
-    "leadership": ["Team Management", "Entrepreneurship", "Community Building"],
-    "innovation": ["Problem Solving", "Research", "Product Development"]
-}
+### 🔐 Cybersecurity
+- Threat Detection
+- Phishing Analysis
+- Security Automation
 
+### 💻 Development
+- Full-Stack Development
+- API Development
+- System Design
+
+### 🧠 Leadership
+- Team Management
+- Entrepreneurship
+- Community Building
+
+### 🚀 Innovation
+- Problem Solving
+- Research
+- Product Development
 
 ---
 
