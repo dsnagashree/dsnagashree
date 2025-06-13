@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://nagashreekashyap.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://dsnagashree.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagashree-ds-32954625b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naagukashyap@gmail.com)
 
@@ -176,9 +176,9 @@ interests = {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=nagashreekashyap&color=blueviolet&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/nagashreekashyap?style=for-the-badge&color=blue)
-![Stars](https://img.shields.io/github/stars/nagashreekashyap?style=for-the-badge&color=yellow)
+![Profile Views](https://komarev.com/ghpvc/?username=dsnagashree&color=blueviolet&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/dsnagashree?style=for-the-badge&color=blue)
+![Stars](https://img.shields.io/github/stars/dsnagashree?style=for-the-badge&color=yellow)
 
 </div>
 
