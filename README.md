@@ -125,7 +125,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=dsnagashree&theme=tokyonight&hide_border=true)](https://github.com/dsnagashree)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dsnagashree&theme=tokyonight&hide_border=true)](https://github.com/dsnagashree)
 
