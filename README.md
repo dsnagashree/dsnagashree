@@ -143,7 +143,7 @@ Here are some ideas to get you started:
 
 ## 🎯 Areas of Interest
 
-```python
+
 interests = {
     "artificial_intelligence": ["Machine Learning", "Deep Learning", "Computer Vision", "NLP"],
     "cybersecurity": ["Threat Detection", "Phishing Analysis", "Security Automation"],
@@ -151,7 +151,7 @@ interests = {
     "leadership": ["Team Management", "Entrepreneurship", "Community Building"],
     "innovation": ["Problem Solving", "Research", "Product Development"]
 }
-```
+
 
 ---
 
