@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
 ## 🏆 Achievements & Recognition
 
-🥉 **2nd Runner-up** - Design and Innovation Clinic 2025 at CMTI (200+ teams)  
+🥉 **2nd Runner-up** - Design and Innovation Clinic 2025 at CMTI,Bengaluru (200+ teams)  
 🏆 **1st Place** - ISRO Space Startup Pitch Competition 2024  
 🎯 **Campus Ambassador** - E-Cell IIT Bombay (Rank 154 Nationwide)  
 📚 **Multiple Certifications** - NPTEL, TCS, Google, Infosys  
