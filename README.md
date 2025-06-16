@@ -178,7 +178,7 @@ Here are some ideas to get you started:
 
 🎵 **Music Enthusiast** - Love exploring different genres and artists  
 📚 **Continuous Learner** - Always reading about emerging technologies  
-🏃‍♀️ **Fitness** - Regular exercise and outdoor activities  
+🏃‍♀️ **Fitness** - Regular exercise and outdoor activities   
 🤝 **Community Service** - Active NSS volunteer contributing to society  
 🎮 **Gaming** - Strategy and puzzle games for mental stimulation  
 ✈️ **Travel** - Exploring new places and cultures (when possible!)  
